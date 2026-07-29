@@ -4,10 +4,8 @@ A modern, responsive, and animated personal portfolio website built using **HTML
 
 ## 🌐 Live Demo
 
-🔗 https://codeps-18.github.io/Portfolio/
-
-> *(Update this URL if your GitHub Pages URL changes.)*
-
+🔗 https://codeps-18-portfoli.vercel.app
+> 
 ---
 
 ## 📸 Preview
