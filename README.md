@@ -95,8 +95,8 @@ Open `Index.html` in your browser.
 **Prabhakar Kumar**
 
 - GitHub: https://github.com/CodePS-18
-- LinkedIn: *(Add your LinkedIn profile)*
-- Email: *(Add your email address)*
+- LinkedIn:https://www.linkedin.com/in/prabhakar-kumar-575364263/
+- Email: pk2489@srmist.edu.in
 
 ---
 
@@ -112,4 +112,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-### Made with ❤️ by Prabhakar Kumar
+### Made with ❤️ by Prabhakar Kumar @CodePS-18
